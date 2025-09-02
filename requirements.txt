@@ -1,0 +1,17 @@
+pandas
+langchain
+langchain-community
+networkx
+python-arango
+pyArango
+tenacity
+pyngrok
+pdfplumber
+pypdf
+pymupdf
+matplotlib
+faiss-cpu
+openai
+# GPU acceleration (optional - requires CUDA)
+# cudf-cu12
+# cugraph-cu12
